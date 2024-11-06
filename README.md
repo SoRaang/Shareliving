@@ -1,4 +1,4 @@
-# NFE1_2_SharingLiving
+# Project Shareliving
 
 # 우리 팀의 코드 컨벤션
 
